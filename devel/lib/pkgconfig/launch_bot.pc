@@ -1,0 +1,8 @@
+prefix=/home/muhab/humanoid_ws/devel
+
+Name: launch_bot
+Description: Description of launch_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

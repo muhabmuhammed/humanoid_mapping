@@ -1,0 +1,2 @@
+humanoid_bot/launch_bot:humanoid_bot/localization_data_pub:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/muhab/humanoid_ws/devel -DCMAKE_INSTALL_PREFIX=/home/muhab/humanoid_ws/install -G Unix Makefiles
